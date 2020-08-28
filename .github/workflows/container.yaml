@@ -27,4 +27,4 @@ jobs:
         '{\"username\": \"hello\", \"address\": \"dwded\"}'
         "
       - name: Get Users
-        run: curl http://localhost:3001/api/user
+        run: curl http://localhost:3001/api/users
